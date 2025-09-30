@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Expo2",
-    "slug": "Expo2",
+    "slug": "latihanexpo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -46,11 +46,10 @@
       "reactCompiler": true
     },
     "extra": {
-  "router": {},
-  "eas": {
-    "projectId": "34848955-b553-4368-87b7-7d543e74fed6"
-  }
-}
-
+      "router": {},
+      "eas": {
+        "projectId": "34848955-b553-4368-87b7-7d543e74fed6"
+      }
+    }
   }
 }
